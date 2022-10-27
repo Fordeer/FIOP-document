@@ -77,7 +77,6 @@ const config = {
             ],
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/community', label: 'Community', position: 'left' },
           {
             href: 'https://github.com/Fordeer',
             label: 'GitHub',
@@ -93,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Fordeer Invoice Order Printer',
-                to: '/docs/introduction',
+                to: '/docs/fordeer-invoice-order-printer/introduction',
               },
             ],
           },
