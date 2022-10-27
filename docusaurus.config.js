@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://cdn.pdfinvoices.fordeer.io/img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -38,6 +38,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+
         },
         blog: {
           showReadingTime: true,
@@ -52,12 +53,12 @@ const config = {
       }),
     ],
   ],
-
+  // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Fordeer',
+        title: 'Fordeer Helpdesk',
         logo: {
           alt: 'Fordeer Logo',
           src: 'img/fordeer-logo.png',
@@ -65,12 +66,18 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            type: 'dropdown',
+            label: 'Shopify Apps',
             position: 'left',
-            label: 'Tutorial',
+            items: [
+              {
+                label: 'Fordeer Invoice Order Printer',
+                to: '/docs/fordeer-invoice-order-printer/introduction',
+              },
+            ],
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/community', label: 'Community', position: 'left' },
           {
             href: 'https://github.com/Fordeer',
             label: 'GitHub',
@@ -82,11 +89,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Shopify Apps',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Fordeer Invoice Order Printer',
+                to: '/docs/introduction',
               },
             ],
           },
@@ -127,8 +134,38 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'DTSCAQZAAY',
+
+        // Public API key: it is safe to commit it
+        apiKey: '88400350c8dff64a45534c671655f9a8',
+
+        indexName: 'FORDEER_HELPDESK',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        // externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Optional: Algolia search parameters
+        // searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        // searchPagePath: 'search',
+
+        //... other Algolia params
+      },
     }),
-  plugins: ['docusaurus-plugin-sass'],
+  plugins: [
+    'docusaurus-plugin-sass',
+  ],
 };
 
 module.exports = config;
