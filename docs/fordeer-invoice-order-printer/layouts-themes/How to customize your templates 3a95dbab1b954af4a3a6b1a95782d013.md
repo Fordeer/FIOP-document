@@ -1,3 +1,6 @@
+---
+slug: 'How-to-customize-your-templates' 
+---
 # How to customize your templates?
 
 ## Step 1: Click “Templates” on the Dashboard:

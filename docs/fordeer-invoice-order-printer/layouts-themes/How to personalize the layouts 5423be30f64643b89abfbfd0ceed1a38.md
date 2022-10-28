@@ -1,3 +1,6 @@
+---
+slug: 'How-to-personalize-the-layouts'
+---
 # How to personalize the layouts?
 
 ## Step 1: Click “Layouts”:

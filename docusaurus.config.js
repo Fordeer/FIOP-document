@@ -37,16 +37,10 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Fordeer/FIOP-document/tree/master/',
 
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
         },
@@ -76,10 +70,9 @@ const config = {
               },
             ],
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/Fordeer',
-            label: 'GitHub',
+            href: 'https://pdfinvoices.apps.fordeer.io',
+            label: 'Get started',
             position: 'right',
           },
         ],
@@ -100,16 +93,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Fordeer Blog',
+                href: 'https://blog.fordeer.io',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Fordeer Dev Blog',
+                href: 'https://code.fordeer.io',
               },
             ],
           },
@@ -117,17 +106,21 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                href: 'https://github.com/Fordeer',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/fordeer',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/fordeer',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fordeer Team. Built with ❤️  Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
