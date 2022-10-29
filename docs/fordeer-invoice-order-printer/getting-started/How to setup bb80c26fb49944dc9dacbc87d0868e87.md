@@ -1,6 +1,9 @@
+---
+slug: how-to-setup
+---
 # How to setup?
 
-To **get started** with our useful app, please follow these below instructions:
+After successfully installing, you will directly go to the **Get Started** page, which you will see only once. Please follow these below instructions:
 
 ![Screenshot (1).png](How%20to%20setup%20bb80c26fb49944dc9dacbc87d0868e87/Screenshot_(1).png)
 

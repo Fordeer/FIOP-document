@@ -1,8 +1,13 @@
+---
+slug: how-to-print-download-an-order-in-bulk
+---
 # How to print & download an order/in bulk?
 
-# Print & download an order:
+With the Fordeer Invoice Order Printer, you can print and download not only an order but also a large quantity at once. Let’s figure out the guidelines as below:
 
-## 1st way: Print & download with Order Printer:
+## Print & download an order:
+
+### 1st way: Print & download with Order Printer:
 
 ### Step 1: Go to order
 
@@ -32,7 +37,7 @@ At this point, you are **free to choose** which **sorts of templates and documen
 
 ![-1010-Orders-Fordeer-Invoice-Order-Printer (3).png](How%20to%20print%20&%20download%20an%20order%20in%20bulk%206ef99b66d4864a46b0390abf9a9ca795/-1010-Orders-Fordeer-Invoice-Order-Printer_(3).png)
 
-## 2nd way: Print & download in Shopify Admin:
+### 2nd way: Print & download in Shopify Admin:
 
 ### Step 1: Click “Orders” on the dashboard then select an order from order listing:
 
@@ -45,7 +50,7 @@ and “**Download with Fordeer PDF Invoices**”.
 
 ![Fordeer-Store-·-Orders-·-Shopify.png (1).png](How%20to%20print%20&%20download%20an%20order%20in%20bulk%206ef99b66d4864a46b0390abf9a9ca795/Fordeer-Store--Orders--Shopify.png_(1).png)
 
-# Download in bulk:
+## Download in bulk:
 
 ### Step 1: Click to select all the orders that you want to download:
 
