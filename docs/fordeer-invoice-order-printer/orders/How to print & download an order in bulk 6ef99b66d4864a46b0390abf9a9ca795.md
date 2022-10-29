@@ -15,7 +15,7 @@ On the dashboard, you click “**Go to order**” or “**Orders**”
 
 ![Dashboard-Fordeer-Invoice-Order-Printer.png](How%20to%20print%20&%20download%20an%20order%20in%20bulk%206ef99b66d4864a46b0390abf9a9ca795/Dashboard-Fordeer-Invoice-Order-Printer.png)
 
-![Orders-Fordeer-Invoice-Order-Printer (20.png](How%20to%20print%20&%20download%20an%20order%20in%20bulk%206ef99b66d4864a46b0390abf9a9ca795/Orders-Fordeer-Invoice-Order-Printer_(20.png)
+![Orders-Fordeer-Invoice-Order-Printer](How%20to%20print%20&%20download%20an%20order%20in%20bulk%206ef99b66d4864a46b0390abf9a9ca795/Orders-Fordeer-Invoice-Order-Printer.png)
 
 ### Step 2: Choose an order to print/download:
 
