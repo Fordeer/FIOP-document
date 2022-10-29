@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Fordeer Knowledge Base',
-  tagline: 'You will find everything you need here.',
+  tagline: 'The great assistance tools for the best businesses.',
   url: 'https://help.fordeer.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Fordeer Invoice Order Printer',
-                to: '/docs/fordeer-invoice-order-printer/introduction',
+                to: 'https://pdfinvoices.apps.fordeer.io',
               },
             ],
           },
