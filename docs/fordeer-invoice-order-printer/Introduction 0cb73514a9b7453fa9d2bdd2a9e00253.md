@@ -12,4 +12,4 @@ Additionally, you are also able to **personalize** your invoice templates, enhan
 
 We are always here to **support you 24/7** with our superior client services.
 
-![https://pdfinvoices.fordeer.io/images/hero/hero-image.png](https://pdfinvoices.fordeer.io/images/hero/hero-image.png)
+![https://pdfinvoices.fordeer.io/images/hero/hero-image.png](/img/hero.png)
