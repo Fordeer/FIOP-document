@@ -1,60 +1,74 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<"svg">>;
+  img: string;
   description: JSX.Element;
-  url?: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Setups",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "Introduction",
+    img: "/img/idea.png",
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your
-        website up and running quickly.
-      </>
+      <div>
+        <p>
+          The Fordeer Team is so honored to be founded with the mission of producing support tools
+          for businesses all over the world.
+          <br />
+          Multiple helpful apps will be created and developed for your business and Shopify online
+          store by our team.
+        </p>
+      </div>
     ),
-    url: "/",
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "Fordeer’s sharing",
+    img: "/img/teamwork.png",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your
-        docs into the <code>docs</code> directory.
+        Our team believes that we have a thorough understanding of the needs and expectations of
+        both merchants and their customers. <br />
+        Our three years of experience as a partner and online store owner on the Shopify platform
+        have contributed to this belief as well. In particular, our highly qualified programming
+        engineers, with all their passion, are always ready to dedicate themselves to creating the
+        most useful apps for customers. <br />
+        Thus, we will highly appreciate it if you give us a hand and support us to boost the Fordeer
+        app’s popularity as well as your brand’s fame to a new level.
       </>
     ),
-    url: "/",
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Be loved by our customers",
+    img: "/img/feedback.png",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can be extended while
-        reusing the same header and footer.
+        <strong>The Fordeer Team</strong> also would like to express our gratitude to the loyal
+        customers for loving our product, as well as the support of all users that install and put
+        their trust in us.
+        <br />
+        We also appreciate all your reviews when you have experience with FIOP.
+        <br />
+        Your honest feedback encourages us and helps us to make improvements to our app!
+        <br />
+        Thank you so much and wish you all the best.
       </>
     ),
-    url: "/",
   },
 ];
 
-function Feature({ title, Svg, description, url }: FeatureItem) {
+function Feature({ title, img, description }: FeatureItem) {
   return (
-    <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+    <div className={clsx("col col--12")}>
+      <div className={`text--center ${styles.featureItem}`}>
+        <img src={img} className={styles.featureSvg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-        <a href={url}>Get started</a>
       </div>
     </div>
   );
@@ -68,6 +82,14 @@ export default function HomepageFeatures(): JSX.Element {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+        </div>
+        <div className={`text--center ${styles.buttons}`}>
+          <Link
+            className="button button--info button--lg"
+            to="/docs/fordeer-invoice-order-printer/introduction"
+          >
+            Get started
+          </Link>
         </div>
       </div>
     </section>
