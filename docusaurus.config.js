@@ -133,12 +133,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'DTSCAQZAAY',
+        appId: 'XTJGIPZRPI',
 
         // Public API key: it is safe to commit it
-        apiKey: '88400350c8dff64a45534c671655f9a8',
+        apiKey: '4f225ed9bfaef340c9e3dad64f7f0e29',
 
-        indexName: 'FORDEER_HELPDESK',
+        indexName: 'HELPDESK',
 
         // Optional: see doc section below
         contextualSearch: true,
