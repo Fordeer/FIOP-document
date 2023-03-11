@@ -88,7 +88,7 @@ export default function HomepageFeatures(): JSX.Element {
             className="button button--info button--lg"
             to="https://link.fordeer.io/mIQ3TO"
           >
-            Get started
+            START A FREE 14-DAY TRIAL
           </Link>
         </div>
       </div>
