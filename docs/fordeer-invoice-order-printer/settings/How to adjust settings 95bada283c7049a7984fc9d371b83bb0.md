@@ -1,15 +1,5 @@
 # How to adjust settings?
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 4, 2023 11:22 AM
-Date: March 7, 2023 → March 7, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 9, 2023 5:31 PM
-Priority: 🔥Khẩn cấp🔥
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 This guideline will show you details which available in our app’s Settings
 

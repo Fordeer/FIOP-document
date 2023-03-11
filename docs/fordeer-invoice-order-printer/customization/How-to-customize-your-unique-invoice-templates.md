@@ -1,15 +1,5 @@
 # How to customize your unique invoice templates - A step-by-step guide
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: January 27, 2023 2:16 PM
-Date: January 10, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 9, 2023 2:05 PM
-Priority: 🔥Khẩn cấp🔥
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content
 
 Small firms must make a professional template in order to design invoices. With a clear, easy-to-read invoice format, a well-designed invoice will promote your brand and encourage customers to pay promptly.
 

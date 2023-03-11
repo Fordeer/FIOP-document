@@ -1,15 +1,5 @@
 # How to set default templates
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 4, 2023 2:09 PM
-Date: March 9, 2023 → March 9, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 9, 2023 5:01 PM
-Priority: ✍️Trung bình✍️
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 This guideline will help you give you information about how to set a default template to start customizing following your needs.
 

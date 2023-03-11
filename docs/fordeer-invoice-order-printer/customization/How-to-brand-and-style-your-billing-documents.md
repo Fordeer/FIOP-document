@@ -1,15 +1,5 @@
 # How to brand and style your billing documents?
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: January 27, 2023 2:19 PM
-Date: January 14, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 9, 2023 2:05 PM
-Priority: 🔥Khẩn cấp🔥
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content
 
 ### How to brand and style your billing documents?
 

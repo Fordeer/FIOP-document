@@ -1,16 +1,5 @@
 # How to install?
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 1, 2023 3:03 PM
-Date: March 6, 2023 → March 6, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 8, 2023 5:33 PM
-Priority: 🔥Khẩn cấp🔥
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
-
 With Fordeer Invoice Order Printer, you will have an efficient billing process which helps to raise your own professionalism.
 
 The below guideline shows you how to install this powerful Shopify app. 

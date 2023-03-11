@@ -1,15 +1,5 @@
 # Edit code templates
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 4, 2023 2:21 PM
-Date: March 7, 2023 → March 7, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 8, 2023 5:34 PM
-Priority: ✍️Trung bình✍️
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 The guide below will give you a detailed description of how to edit the code of a template. Let’s find it out:
 
