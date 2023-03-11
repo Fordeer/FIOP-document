@@ -11,12 +11,12 @@ const config = {
   url: 'https://help.fordeer.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'https://cdn.pdfinvoices.fordeer.io/img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Fordeer', // Usually your GitHub org/user name.
   projectName: 'FIOP-document', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
