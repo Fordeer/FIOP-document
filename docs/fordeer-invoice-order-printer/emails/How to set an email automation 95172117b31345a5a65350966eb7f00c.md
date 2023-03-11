@@ -1,15 +1,5 @@
 # How to set an email automation?
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 4, 2023 2:22 PM
-Date: March 8, 2023 → March 8, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 8, 2023 5:34 PM
-Priority: ✍️Trung bình✍️
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 This guideline will give you information about how to set up email automation with the **Fordeer Invoice Order Printer.** 
 

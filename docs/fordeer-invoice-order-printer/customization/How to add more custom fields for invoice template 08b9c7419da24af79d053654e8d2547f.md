@@ -1,15 +1,5 @@
 # How to add more custom fields for invoice templates
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 9, 2023 6:03 PM
-Date: March 10, 2023 → March 10, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 10, 2023 2:01 PM
-Priority: ✍️Trung bình✍️
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 This guideline will show you how to add more custom fields for invoice templates.
 

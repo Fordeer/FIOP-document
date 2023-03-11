@@ -1,14 +1,5 @@
 # How to send thank you note
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 9, 2023 5:26 PM
-Date: March 9, 2023 → March 9, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 10, 2023 2:20 PM
-Sprint: Helpdesk, Helpdesk 1.0
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 This article will guide you on how to send thank-you notes automatically
 

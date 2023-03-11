@@ -1,15 +1,5 @@
 # How to use Automation Emails effectively?
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: January 27, 2023 2:17 PM
-Date: January 12, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 9, 2023 2:01 PM
-Priority: 🔥Khẩn cấp🔥
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content
 
 With the “Automation Emails” feature, not only you but also your customers can save time and effort in sending and solving all the matters relating to PDF billing documents. Please follow the procedure below to learn more thoroughly.
 

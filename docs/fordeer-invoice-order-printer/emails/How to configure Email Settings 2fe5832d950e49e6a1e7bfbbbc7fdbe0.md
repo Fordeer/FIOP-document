@@ -1,15 +1,5 @@
 # How to configure Email Settings
 
-Assign: Hạ Nguyễn
-Created by: Hạ Nguyễn
-Created time: March 6, 2023 9:24 AM
-Date: March 7, 2023 → March 7, 2023
-Last edited by: Hạ Nguyễn
-Last edited time: March 8, 2023 5:34 PM
-Priority: ✍️Trung bình✍️
-Sprint: Helpdesk
-Status: 👏Đã hoàn thành👏
-Type: Content, Task
 
 Before you can send out any email campaign in Fordeer, you need to have a verified sender. You have three options to add a sender:
 
