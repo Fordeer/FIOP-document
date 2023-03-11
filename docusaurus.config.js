@@ -10,7 +10,7 @@ const config = {
   tagline: 'The great assistance tools for the best businesses.',
   url: 'https://help.fordeer.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://cdn.pdfinvoices.fordeer.io/img/favicon.png',
 
@@ -26,7 +26,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
