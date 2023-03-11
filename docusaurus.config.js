@@ -83,8 +83,8 @@ const config = {
           dropdownActiveClassDisabled: true,
         },
           {
-            href: 'https://pdfinvoices.apps.fordeer.io',
-            label: 'Get started',
+            href: 'https://link.fordeer.io/mIQ3TO',
+            label: 'START A FREE 14-DAY TRIAL',
             position: 'right',
           },
         ],
@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Fordeer Invoice Order Printer',
-                to: 'https://pdfinvoices.apps.fordeer.io',
+                to: 'https://link.fordeer.io/mIQ3TO',
               },
             ],
           },

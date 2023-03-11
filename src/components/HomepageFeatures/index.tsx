@@ -86,7 +86,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className={`text--center ${styles.buttons}`}>
           <Link
             className="button button--info button--lg"
-            to="/docs/fordeer-invoice-order-printer/introduction"
+            to="https://link.fordeer.io/mIQ3TO"
           >
             Get started
           </Link>
