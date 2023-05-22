@@ -10,13 +10,13 @@ const config = {
   tagline: 'The great assistance tools for the best businesses.',
   url: 'https://help.fordeer.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'https://cdn.pdfinvoices.fordeer.io/img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Fordeer', // Usually your GitHub org/user name.
   projectName: 'FIOP-document', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -26,13 +26,19 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: 'Ver 1.0',
+              // path: '/',
+            },
+          },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -70,9 +76,15 @@ const config = {
               },
             ],
           },
+        {
+          type: 'docsVersionDropdown',
+          position: 'right',
+          dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+          dropdownActiveClassDisabled: true,
+        },
           {
-            href: 'https://pdfinvoices.apps.fordeer.io',
-            label: 'Get started',
+            href: 'https://link.fordeer.io/mIQ3TO',
+            label: 'START A FREE 14-DAY TRIAL',
             position: 'right',
           },
         ],
@@ -85,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Fordeer Invoice Order Printer',
-                to: 'https://pdfinvoices.apps.fordeer.io',
+                to: 'https://link.fordeer.io/mIQ3TO',
               },
             ],
           },
