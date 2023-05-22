@@ -1,5 +1,5 @@
 ---
-title: Introduce Fordeer Invoice Order Printer 1.0
+title: Introduce Fordeer Invoice Order Printer
 slug: introduce-fordeer-invoice-order-printer-1-0
 date_published: 2023-02-27T07:14:22.000Z
 date_updated: 2023-03-02T10:13:17.000Z
