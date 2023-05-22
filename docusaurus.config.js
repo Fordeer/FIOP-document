@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Fordeer Helpdesk',
+        title: 'Helpdesk',
         logo: {
           alt: 'Fordeer Logo',
           src: 'img/fordeer-logo.png',
@@ -66,8 +66,13 @@ const config = {
         },
         items: [
           {
+            label: 'Home',
+            position: 'left',
+            to: 'https://fordeer.io?ref=helpdesk_page',
+          },
+          {
             type: 'dropdown',
-            label: 'Shopify Apps',
+            label: 'Apps',
             position: 'left',
             items: [
               {
@@ -75,6 +80,16 @@ const config = {
                 to: '/docs/fordeer-invoice-order-printer/introduction',
               },
             ],
+          },
+          {
+            label: 'Blogs',
+            position: 'left',
+            to: 'https://blog.fordeer.io?ref=helpdesk_page',
+          },
+          {
+            label: 'Partners',
+            position: 'left',
+            to: 'https://fordeer.io/partners?ref=helpdesk_page',
           },
         {
           type: 'docsVersionDropdown',
@@ -111,6 +126,31 @@ const config = {
               {
                 label: 'Fordeer Dev Blog',
                 href: 'https://code.fordeer.io',
+              },
+            ],
+          },
+          {
+            title: 'Company',
+            items: [
+              {
+                label: 'About us',
+                href: 'https://fordeer.io/about?ref=helpdesk_page',
+              },
+              {
+                label: 'Contact us',
+                href: 'https://fordeer.io/contact?ref=helpdesk_page',
+              },
+              {
+                label: 'Careers',
+                href: 'https://career.fordeer.io/?ref=helpdesk_page',
+              },
+              {
+                label: 'Terms and Conditions',
+                href: 'https://fordeer.io/content/terms-and-conditions?ref=helpdesk_page'
+              },
+              {
+                label: 'Privacy policy',
+                href: 'http://fordeer.io/content/privacy-policy?ref=helpdesk_page'
               },
             ],
           },
