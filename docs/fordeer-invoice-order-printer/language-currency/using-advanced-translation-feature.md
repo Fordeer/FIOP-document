@@ -23,4 +23,6 @@ Remember to click “Save” after all customizations.
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

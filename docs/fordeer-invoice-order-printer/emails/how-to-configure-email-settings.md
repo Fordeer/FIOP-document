@@ -65,4 +65,6 @@ Remember clicking “Save” button to complete your email configuration
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

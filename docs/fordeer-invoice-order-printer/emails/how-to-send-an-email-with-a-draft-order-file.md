@@ -23,4 +23,6 @@ Remember to click “Submit” to complete the setup and start sending emails to
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

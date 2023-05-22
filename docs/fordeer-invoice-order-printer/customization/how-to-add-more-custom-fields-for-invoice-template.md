@@ -23,4 +23,6 @@ On the other hand, if you want to add more, click **“+ Add”** below. The inf
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

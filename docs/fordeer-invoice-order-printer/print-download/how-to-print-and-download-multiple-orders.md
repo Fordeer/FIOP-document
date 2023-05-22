@@ -17,4 +17,6 @@ In this guideline, you can learn how to print and download multiple invoices/ord
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

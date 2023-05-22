@@ -22,4 +22,6 @@ Click “Install app” to complete the installing process
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

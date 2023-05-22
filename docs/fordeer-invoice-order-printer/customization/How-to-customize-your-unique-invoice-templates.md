@@ -49,4 +49,6 @@ After you've finished customizing, don't forget to click "Save" to have your own
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

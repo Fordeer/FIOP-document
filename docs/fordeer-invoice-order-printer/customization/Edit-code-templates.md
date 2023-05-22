@@ -21,4 +21,6 @@ Come to the edit page full of liquid variables. Then, you can edit flexibly to f
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

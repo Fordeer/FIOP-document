@@ -1,3 +1,6 @@
+import PartialHeader from '@site/src/partials/_header'
+
+
 # FAQs 1.0
 
 
@@ -84,3 +87,5 @@ Then, you can adjust the currency format as your desire: arrange the currency si
 - Note that you **can not** change the **{{amount}} variable**.
 
 Please **write us a review** after you have experience with our app. Your honest feedback **encourages** us and helps us to **make improvements** to our app!
+
+<PartialHeader/>

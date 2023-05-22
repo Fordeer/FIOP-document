@@ -43,3 +43,7 @@ To learn more about all the powerful features, please check out [here](https://p
 👉 Fordeer, which is a start-up software agency in 2022, is so honored to be founded with the mission of producing support tools for businesses all over the world. “The great tools for the best businesses”. Our highly qualified programming engineers, with all their passion, are always ready to dedicate themselves to creating the most useful apps for your business and Shopify online store.
 
 📌 Fordeer Invoice Order Printer (FIOP) is a Shopify app, which was built as a professional alternative to Shopify Order Printer. With FIOP, you are able to "print" or "download" invoices, packing slips, orders, etc., in bulk and send them to your customers directly. [Learn more about app](https://pdfinvoices.fordeer.io/).
+
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

@@ -49,4 +49,6 @@ To learn more deeply about this advanced feature, please check out: “**How to 
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

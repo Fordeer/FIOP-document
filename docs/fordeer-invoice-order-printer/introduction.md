@@ -2,7 +2,11 @@
 slug:  'Introduction'
 sidebar_position:  1
 ---
+import PartialHeader from '@site/src/partials/_header'
+
+
 # Introduction
+
 
 ***Welcome to the Fordeer Invoice Order Printer!*** 
 
@@ -26,3 +30,5 @@ We are always here to **support you 24/7** with our superior client services.
 ![](https://cdn.shopify.com/app-store/listing_images/d25415225ef10c34db6a9714b51a5b8b/desktop_screenshot/CN-8mNO-v_0CEAE=.png?height=900&width=1600)
 ![](https://cdn.shopify.com/app-store/listing_images/d25415225ef10c34db6a9714b51a5b8b/desktop_screenshot/CIfQo9O-v_0CEAE=.png?height=900&width=1600)
 ![](https://cdn.shopify.com/app-store/listing_images/d25415225ef10c34db6a9714b51a5b8b/desktop_screenshot/CNG-rtO-v_0CEAE=.png?height=900&width=1600)
+
+<PartialHeader/>

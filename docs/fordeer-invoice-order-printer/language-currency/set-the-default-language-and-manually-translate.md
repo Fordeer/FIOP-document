@@ -28,4 +28,6 @@ You can translate yourself by first selecting the language you want. Then there 
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

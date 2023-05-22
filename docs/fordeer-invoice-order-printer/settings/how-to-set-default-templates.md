@@ -33,4 +33,6 @@ The template you want has been set as default. Since that, every order will be p
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

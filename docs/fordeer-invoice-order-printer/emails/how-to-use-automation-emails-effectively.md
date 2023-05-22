@@ -63,4 +63,6 @@ After you've finished all the settings for your automation email campaign, don't
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

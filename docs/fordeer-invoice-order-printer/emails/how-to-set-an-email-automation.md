@@ -34,4 +34,6 @@ Remember to click **“Save”** to complete the setup process.
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

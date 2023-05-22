@@ -17,4 +17,6 @@ All orders are still kept in a big PDF file, which is easy for you to print and 
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>

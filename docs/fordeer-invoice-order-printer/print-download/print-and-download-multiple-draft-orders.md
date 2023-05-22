@@ -14,4 +14,6 @@ There will be a big PDF file shown, including all the draft orders that you’ve
 
 ---
 
-Did you find it helpful? Yes | No
+import PartialHeader from '@site/src/partials/_header'
+
+<PartialHeader/>
