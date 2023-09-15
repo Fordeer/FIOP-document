@@ -66,11 +66,11 @@ const config = {
           srcDark: 'img/fordeer-logo-dark.png',
         },
         items: [
-          {
-            label: 'Home',
-            position: 'left',
-            to: 'https://fordeer.io?ref=helpdesk_page',
-          },
+          // {
+          //   label: 'Home',
+          //   position: 'left',
+          //   to: 'https://fordeer.io?ref=helpdesk_page',
+          // },
           {
             type: 'dropdown',
             label: 'Apps',
@@ -78,31 +78,29 @@ const config = {
             items: [
               {
                 label: 'Fordeer Invoice Order Printer',
-                to: '/docs/fordeer-invoice-order-printer/introduction',
+                to: '/docs/fordeer-invoice-order-printer/fordeer-pdf-invoice-generator/introduction',
+              },
+              {
+                label: 'Fordeer Sales Popup',
+                to: '/docs/fordeer-sales-popup/introduction',
               },
             ],
           },
-          {
-            label: 'Blogs',
-            position: 'left',
-            to: 'https://blog.fordeer.io?ref=helpdesk_page',
-          },
-          {
-            label: 'Partners',
-            position: 'left',
-            to: 'https://fordeer.io/partners?ref=helpdesk_page',
-          },
-        {
-          type: 'docsVersionDropdown',
-          position: 'right',
-          dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
-          dropdownActiveClassDisabled: true,
-        },
-          {
-            href: 'https://link.fordeer.io/mIQ3TO',
-            label: 'START A FREE 14-DAY TRIAL',
-            position: 'right',
-          },
+          // {
+          //   label: 'Blogs',
+          //   position: 'left',
+          //   to: 'https://blog.fordeer.io?ref=helpdesk_page',
+          // },
+          // {
+          //   label: 'Partners',
+          //   position: 'left',
+          //   to: 'https://fordeer.io/partners?ref=helpdesk_page',
+          // },
+          // {
+          //   href: 'https://link.fordeer.io/mIQ3TO',
+          //   label: 'START A FREE 14-DAY TRIAL',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
