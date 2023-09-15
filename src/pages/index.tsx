@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/fordeer-invoice-order-printer/introduction"
+            to="/docs/fordeer-invoice-order-printer/fordeer-pdf-invoice-generator/introduction/"
           >
             Get started - 5min ⏱️
           </Link>
