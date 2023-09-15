@@ -72,19 +72,15 @@ const config = {
           //   to: 'https://fordeer.io?ref=helpdesk_page',
           // },
           {
-            type: 'dropdown',
-            label: 'Apps',
+            to: '/docs/fordeer-invoice-order-printer/fordeer-pdf-invoice-generator/introduction',
+            label: 'Docs',
             position: 'left',
-            items: [
-              {
-                label: 'Fordeer Invoice Order Printer',
-                to: '/docs/fordeer-invoice-order-printer/fordeer-pdf-invoice-generator/introduction',
-              },
-              {
-                label: 'Fordeer Sales Popup',
-                to: '/docs/fordeer-sales-popup/introduction',
-              },
-            ],
+            // items: [
+            //   {
+            //     label: 'Fordeer Invoice Order Printer',
+            //     to: '/docs/fordeer-invoice-order-printer/fordeer-pdf-invoice-generator/introduction',
+            //   }
+            // ],
           },
           // {
           //   label: 'Blogs',
